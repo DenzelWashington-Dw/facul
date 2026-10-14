@@ -1,0 +1,7 @@
+Flutter
+
+Widget -> componente visual do Flutter
+        -> tem árvore de hierarquia -> começa pelo widget principal e vai ser colocado outros widgets acoplados a ele
+        ->Existem widgets para colocar coisa bem específica(texto,imagem...) e tem widgets para acoplar outros widgets
+        ->widgets que podem acoplar outros widgets possuem a opção child(aceita um widget) ou children(aceita vários widgets)
+        ->StatelessWidget (imutável) e statefulWidget (aceita mudança de estado')
